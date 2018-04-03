@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tlumacz</string>
+    <string name="MArand_button">Losuj</string>
+    <string name="MAlern_button">Nauka</string>
+    <string name="MAadd_button">Dodaj</string>
+    <string name="LAbutton">zrob cos</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="sign_in_username">Username</string>
+    <string name="signIn_button">But</string>
+</resources>
